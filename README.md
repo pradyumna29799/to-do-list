@@ -1,7 +1,3 @@
-Certainly! A comprehensive README file is crucial for any project as it provides clear instructions for setting up, running, and using your application. Here's a complete README file for your To-Do List API project, including API endpoint descriptions and other relevant details:
-
----
-
 # To-Do List API
 
 A simple RESTful API for managing a to-do list. This API allows users to perform CRUD (Create, Read, Update, Delete) operations on tasks, helping them to manage their tasks efficiently.
@@ -250,7 +246,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or support, please reach out:
 
 - **Author:** Pradyumna Badave
-- **Email:** [pradyumnabadave@example.com](mailto:pradyumnabadave@example.com)
+- **Email:** [pbadave9@gmail.com](mailto:pradyumnabadave@example.com)
 
 ---
 
