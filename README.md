@@ -247,7 +247,3 @@ For any questions or support, please reach out:
 
 - **Author:** Pradyumna Badave
 - **Email:** [pbadave9@gmail.com](mailto:pradyumnabadave@example.com)
-
----
-
-Feel free to customize this README as needed for your specific project. This version includes detailed instructions for installation, usage, and API endpoint descriptions to make it easy for others to understand and use your application.
